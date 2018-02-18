@@ -20,7 +20,7 @@ First you have to upload the shell.php script to the webserver you want to backd
 
 The postshell.js script is used to connect and interact with the backdoor. You connect by using the ```<path>``` and ```<password>``` parameters. The path is the url to the php script, for example: https://www.example.com/shell.php. The password is defined in the shell.php script.
 
-_For more examples and usage, please refer to the [Wiki][wiki]._
+_For more examples and usage, please refer to the [Wiki](https://github.com/idiidk/postshell/wiki)._
 
 ## Release History
 
