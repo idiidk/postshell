@@ -1,7 +1,7 @@
 # PostShell
 > For when you don`t have the time.
 
-PostShell is a no bullshit, simple and light php backdoor which can execute commands without sockets and is password protected.
+PostShell is a no bullshit, simple and light php backdoor which can execute commands without the use of sockets. It is also password protected.
 
 ## Installation
 
