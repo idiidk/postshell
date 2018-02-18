@@ -10,7 +10,7 @@ OS X, Linux and Windows:
 ```sh
 git clone https://github.com/idiidk/postshell.git
 cd postshell
-yarn i
+yarn install
 node postshell.js <path> <pass>
 ```
 
